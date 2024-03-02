@@ -23,6 +23,16 @@
 - Access to a SlideShare premium account (for cookies).
 - Must be use Premium Account Cookies [ Update cookie file with you actual premium account cookies ]
 
+1. Install the required dependencies, ensuring Python 3.8 or higher:
+
+    ```bash
+    pip install beautifulsoup4
+    ```
+### Running the Script
+
+  ```bash
+  python slideshare.py
+  ```
 ## Author 📝
 
 - Name: Bisnu Ray
