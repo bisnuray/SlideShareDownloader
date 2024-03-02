@@ -1,0 +1,18 @@
+#Example JSON Replace with actual premium SlideShare Account JSON 
+
+[
+{
+    "domain": ".slideshare.net",
+    "expirationDate": 1743936034.986186,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "__utma",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "186399478.647547556.1709376034.1709376035.1709376035.1",
+    "id": 1
+}
+]
