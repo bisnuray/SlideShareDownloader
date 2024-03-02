@@ -34,7 +34,7 @@ def download_file_from_slideshare(url):
     base_file_name = parsed_url.path.split('/')[-1]
 
     # Load cookies
-    cookies = load_cookies('slide.json')  # Ensure 'slide.json' is the correct path to your cookies file
+    cookies = load_cookies('cookie.json')  # Ensure 'cookie.json' is the correct path to your cookies file
 
     # First request to get the slideshow_id and downloadKey
     first_response = requests.get(url, cookies=cookies)
