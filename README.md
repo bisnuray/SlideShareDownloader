@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <em>SlideShareDownloader Downloader is Python Script capable of downloading SlideShare documents as PDF files using cookies from a premium account.</em>
+  <em>SlideShare Downloader is a Python Script capable of downloading SlideShare documents as PDF files using cookies from a premium account.</em>
 </p>
 
 ## Features
